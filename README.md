@@ -1,5 +1,5 @@
 
-<##> Newz App </##>
+<h1> Newz App </h1>
 <br>
 Welcome to the Newz App! This is a Python-based application that fetches and displays the latest news from various sources.
 
