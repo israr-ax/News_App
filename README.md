@@ -3,7 +3,7 @@
 <br>
 Welcome to the Newz App! This is a Python-based application that fetches and displays the latest news from various sources.
 
-<###Features>
+<h5>Features:  </h5>
 <br>
 Fetches the latest news articles from multiple sources.
 <br>
