@@ -1,9 +1,9 @@
 
-<##Newz App
+<##Newz App>
 <br>
 Welcome to the Newz App! This is a Python-based application that fetches and displays the latest news from various sources.
 
-<###Features
+<###Features>
 <br>
 Fetches the latest news articles from multiple sources.
 <br>
